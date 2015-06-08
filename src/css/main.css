@@ -50,39 +50,14 @@ body {
   background: #A0BAB1;
   font-size: 50px; }
 
-.github-id {
-  width: 300px; }
-
 h1 {
-  font-size: 30px;
-  margin-top: 50px;
-  margin-left: 100px; }
-
-.github-id {
+  font-size: 35px;
   margin-left: 100px;
-  font-size: 30px;
-  border-radius: 5px; }
+  margin-top: 50px;
+  margin-bottom: 20px; }
 
-.submit-button {
-  font-size: 100px;
-  margin-left: -20px; }
-
-.display-github-info {
-  float: right;
-  margin-right: 300px;
-  font-size: 30px; }
-
-.name {
-  padding-top: 1em;
-  border-bottom: solid;
-  border-size: 1px; }
-
-.avatar {
-  width: 100px; }
-
-.public-repos {
-  padding-top: 1em;
-  font-size: 25px; }
-
-.followers {
-  font-size: 25px; }
+.enter-command {
+  padding: 1em;
+  font-size: .3em;
+  margin-left: 100px;
+  width: 15em; }
